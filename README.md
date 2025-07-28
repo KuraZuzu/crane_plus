@@ -1,6 +1,8 @@
 # crane_plus
 
-[![industrial_ci](https://github.com/rt-net/crane_plus/workflows/industrial_ci/badge.svg?branch=master)](https://github.com/rt-net/crane_plus/actions?query=workflow%3Aindustrial_ci+branch%3Amaster)
+[![industrial_ci_jazzy](https://github.com/KuraZuzu/crane_plus/actions/workflows/industrial_ci_jazzy.yml/badge.svg)](https://github.com/KuraZuzu/crane_plus/actions/workflows/industrial_ci_jazzy.yml)
+
+[![industrial_ci_rolling](https://github.com/KuraZuzu/crane_plus/actions/workflows/industrial_ci_rolling.yml/badge.svg)](https://github.com/KuraZuzu/crane_plus/actions/workflows/industrial_ci_rolling.yml)
 
 ROS 2 package suite of CRANE+ V2.
 
